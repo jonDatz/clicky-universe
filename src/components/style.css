@@ -1,0 +1,29 @@
+.wrappper {
+    padding: 30px;
+    background: whitesmoke;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding:10px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+}
+
+.card {
+  background: whitesmoke;
+  border-radius: 2px;
+  height: 325px;
+  position: relative;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+.card > .img-container {
+  height: 60%;
+  overflow: hidden;
+  background: rgb(71, 224, 160);
+}
+
+.card > .img-container > img {
+  width: 60%;
+} 
