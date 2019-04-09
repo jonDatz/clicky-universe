@@ -1,14 +1,13 @@
 import React, { Component } from "react";
-import AppBar from "@material-ui/core/AppBar";
+
 
 class Navbar extends Component {
   render() {
     return (
+      <nav>
       <div className="nav-wrapper">
-        <a href="#" class="brand-logo">
-          Logo
-        </a>
-        <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <a href="/clicky-universe" className="brand-logo">Logo</a>
+        <ul id="nav-mobile" className="right hide-on-med-and-down">
           <li>
             <a href="sass.html">Sass</a>
           </li>
@@ -20,6 +19,7 @@ class Navbar extends Component {
           </li>
         </ul>
       </div>
+      </nav>
     );
   }
 }
