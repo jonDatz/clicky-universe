@@ -1,13 +1,13 @@
 {
-  "main.css": "/clicky-universe/static/css/main.e266d204.chunk.css",
-  "main.js": "/clicky-universe/static/js/main.4c8c9e9a.chunk.js",
-  "main.js.map": "/clicky-universe/static/js/main.4c8c9e9a.chunk.js.map",
+  "main.css": "/clicky-universe/static/css/main.51174cd9.chunk.css",
+  "main.js": "/clicky-universe/static/js/main.1a8dc9ae.chunk.js",
+  "main.js.map": "/clicky-universe/static/js/main.1a8dc9ae.chunk.js.map",
   "runtime~main.js": "/clicky-universe/static/js/runtime~main.28a42930.js",
   "runtime~main.js.map": "/clicky-universe/static/js/runtime~main.28a42930.js.map",
-  "static/js/2.d6a534e5.chunk.js": "/clicky-universe/static/js/2.d6a534e5.chunk.js",
-  "static/js/2.d6a534e5.chunk.js.map": "/clicky-universe/static/js/2.d6a534e5.chunk.js.map",
+  "static/js/2.98dcc9dd.chunk.js": "/clicky-universe/static/js/2.98dcc9dd.chunk.js",
+  "static/js/2.98dcc9dd.chunk.js.map": "/clicky-universe/static/js/2.98dcc9dd.chunk.js.map",
   "index.html": "/clicky-universe/index.html",
-  "precache-manifest.67d5a980fbd0248eb66642c8d85d11f6.js": "/clicky-universe/precache-manifest.67d5a980fbd0248eb66642c8d85d11f6.js",
+  "precache-manifest.4ad78ca50329e7e0b4dbce18646c5418.js": "/clicky-universe/precache-manifest.4ad78ca50329e7e0b4dbce18646c5418.js",
   "service-worker.js": "/clicky-universe/service-worker.js",
-  "static/css/main.e266d204.chunk.css.map": "/clicky-universe/static/css/main.e266d204.chunk.css.map"
+  "static/css/main.51174cd9.chunk.css.map": "/clicky-universe/static/css/main.51174cd9.chunk.css.map"
 }
