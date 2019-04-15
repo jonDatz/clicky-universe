@@ -1,14 +1,22 @@
 import React from "react";
-import "../style.css";
+import "./style.css";
 
 function CharacterCard(props) {
-    return (
-        <div className="card">
-            <div className="img-container">
-                <img alt={props.friend.name} src={props.friend.image} />
-            </div>
-        </div>
-    );
-}
+
+return(
+  <div className="card">
+  <div className="img-container">
+    <img alt={props.name} src={props.image} />
+  </div>
+  <div className="content">
+    <ul>
+      <li>
+        <strong>Name:</strong> {props.name}
+      </li>
+
+    </ul>
+  </div>
+</div>
+)}
 
 export default CharacterCard;
